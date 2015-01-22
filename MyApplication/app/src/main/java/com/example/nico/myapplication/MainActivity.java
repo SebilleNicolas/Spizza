@@ -23,7 +23,7 @@ public class MainActivity extends ActionBarActivity {
         btnNewMsg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                txtMsg.setText("Tesszst");
+                txtMsg.setText("Tedddsszst");
 
             }
         });
